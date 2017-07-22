@@ -1,0 +1,9 @@
+C:\Users\YaNatashaMne16\Desktop\ДМ\Sort\Shell\bin\Debug\Shell.exe.config
+C:\Users\YaNatashaMne16\Desktop\ДМ\Sort\Shell\bin\Debug\Shell.exe
+C:\Users\YaNatashaMne16\Desktop\ДМ\Sort\Shell\bin\Debug\Shell.pdb
+C:\Users\YaNatashaMne16\Desktop\ДМ\Sort\Shell\obj\Debug\Shell.csprojResolveAssemblyReference.cache
+C:\Users\YaNatashaMne16\Desktop\ДМ\Sort\Shell\obj\Debug\Shell.Form1.resources
+C:\Users\YaNatashaMne16\Desktop\ДМ\Sort\Shell\obj\Debug\Shell.Properties.Resources.resources
+C:\Users\YaNatashaMne16\Desktop\ДМ\Sort\Shell\obj\Debug\Shell.csproj.GenerateResource.Cache
+C:\Users\YaNatashaMne16\Desktop\ДМ\Sort\Shell\obj\Debug\Shell.exe
+C:\Users\YaNatashaMne16\Desktop\ДМ\Sort\Shell\obj\Debug\Shell.pdb
